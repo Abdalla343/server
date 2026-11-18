@@ -1,0 +1,52 @@
+{"level":40,"time":1794997154001,"pid":5512,"hostname":"DESKTOP-JK83CTJ","reason":"Workers.xlsx not found","msg":"WORKERS NOT LOADED: scanning disabled until an ADMIN uploads a valid Workers.xlsx"}
+{"level":40,"time":1794997154011,"pid":5512,"hostname":"DESKTOP-JK83CTJ","msg":"Running over plain HTTP: browsers will NOT allow the camera on LAN addresses. Configure HTTPS_KEY / HTTPS_CERT."}
+{"level":30,"time":1794997154014,"pid":5512,"hostname":"DESKTOP-JK83CTJ","recovered":0,"tempFilesRemoved":0,"msg":"queue started"}
+{"level":30,"time":1794997154068,"pid":5512,"hostname":"DESKTOP-JK83CTJ","url":"http://0.0.0.0:3000","data":"C:\\Users\\Bios\\Desktop\\Atten_Proj\\cx\\LastVersion_ina_part3\\server\\data","recovery":{"recovered":0,"tempFilesRemoved":0},"msg":"attendance server listening"}
+{"level":30,"time":1794997154160,"pid":5512,"hostname":"DESKTOP-JK83CTJ","date":"18-11-2026","msg":"day files ensured"}
+{"level":30,"time":1794997154204,"pid":5512,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-18T10-19-14","msg":"backup created"}
+{"level":30,"time":1794997447467,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997490667,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/OUT","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997511020,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/OUT","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997520570,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997529021,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997590131,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997795763,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997857995,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/OUT","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997890481,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/OUT","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997904788,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794997961978,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794998051294,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794998070224,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794998090683,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794998109935,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794998234787,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1794998310518,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/OUT","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1795000755018,"pid":5512,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-18T11-19-14","msg":"backup created"}
+{"level":30,"time":1795001256409,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1795001297960,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1795001334384,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1795001353941,"pid":5512,"hostname":"DESKTOP-JK83CTJ","file":"18-11-2026/IN","appended":1,"duplicates":0,"msg":"batch saved"}
+{"level":30,"time":1795001646231,"pid":5512,"hostname":"DESKTOP-JK83CTJ","msg":"shutting down: finishing the current save first"}
+{"level":30,"time":1795088098181,"pid":3336,"hostname":"DESKTOP-JK83CTJ","loadedAt":"2026-11-19T11:34:58.179Z","source":"disk","sha256":"e9ea996076e933876dabcae930718e55878fdecb4a5b682d8fd30bb44911e268","total":187,"valid":186,"terminated":1,"warningCount":0,"msg":"workers loaded"}
+{"level":40,"time":1795088098195,"pid":3336,"hostname":"DESKTOP-JK83CTJ","msg":"Running over plain HTTP: browsers will NOT allow the camera on LAN addresses. Configure HTTPS_KEY / HTTPS_CERT."}
+{"level":30,"time":1795088098198,"pid":3336,"hostname":"DESKTOP-JK83CTJ","recovered":0,"tempFilesRemoved":0,"msg":"queue started"}
+{"level":30,"time":1795088098275,"pid":3336,"hostname":"DESKTOP-JK83CTJ","url":"http://0.0.0.0:3000","data":"C:\\Users\\Bios\\Desktop\\Atten_Proj\\cx\\LastVersion_ina_part3\\server\\data","recovery":{"recovered":0,"tempFilesRemoved":0},"msg":"attendance server listening"}
+{"level":30,"time":1795088098372,"pid":3336,"hostname":"DESKTOP-JK83CTJ","date":"19-11-2026","msg":"day files ensured"}
+{"level":30,"time":1795088098445,"pid":3336,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-19T11-34-58","msg":"backup created"}
+{"level":30,"time":1795088154310,"pid":3336,"hostname":"DESKTOP-JK83CTJ","msg":"shutting down: finishing the current save first"}
+{"level":30,"time":1795088172387,"pid":28112,"hostname":"DESKTOP-JK83CTJ","loadedAt":"2026-11-19T11:36:12.384Z","source":"disk","sha256":"e9ea996076e933876dabcae930718e55878fdecb4a5b682d8fd30bb44911e268","total":187,"valid":186,"terminated":1,"warningCount":0,"msg":"workers loaded"}
+{"level":40,"time":1795088172403,"pid":28112,"hostname":"DESKTOP-JK83CTJ","msg":"Running over plain HTTP: browsers will NOT allow the camera on LAN addresses. Configure HTTPS_KEY / HTTPS_CERT."}
+{"level":30,"time":1795088172405,"pid":28112,"hostname":"DESKTOP-JK83CTJ","recovered":0,"tempFilesRemoved":0,"msg":"queue started"}
+{"level":30,"time":1795088172465,"pid":28112,"hostname":"DESKTOP-JK83CTJ","url":"http://0.0.0.0:3000","data":"C:\\Users\\Bios\\Desktop\\Atten_Proj\\cx\\LastVersion_ina_part3\\server\\data","recovery":{"recovered":0,"tempFilesRemoved":0},"msg":"attendance server listening"}
+{"level":30,"time":1795088172511,"pid":28112,"hostname":"DESKTOP-JK83CTJ","date":"19-11-2026","msg":"day files ensured"}
+{"level":30,"time":1795088207694,"pid":28112,"hostname":"DESKTOP-JK83CTJ","msg":"shutting down: finishing the current save first"}
+{"level":30,"time":1795261024436,"pid":23176,"hostname":"DESKTOP-JK83CTJ","loadedAt":"2026-11-21T11:37:04.434Z","source":"disk","sha256":"e9ea996076e933876dabcae930718e55878fdecb4a5b682d8fd30bb44911e268","total":187,"valid":186,"terminated":1,"warningCount":0,"msg":"workers loaded"}
+{"level":40,"time":1795261024453,"pid":23176,"hostname":"DESKTOP-JK83CTJ","msg":"Running over plain HTTP: browsers will NOT allow the camera on LAN addresses. Configure HTTPS_KEY / HTTPS_CERT."}
+{"level":30,"time":1795261024456,"pid":23176,"hostname":"DESKTOP-JK83CTJ","recovered":0,"tempFilesRemoved":0,"msg":"queue started"}
+{"level":30,"time":1795261024535,"pid":23176,"hostname":"DESKTOP-JK83CTJ","url":"http://0.0.0.0:3000","data":"C:\\Users\\Bios\\Desktop\\Atten_Proj\\cx\\LastVersion_ina_part3\\server\\data","recovery":{"recovered":0,"tempFilesRemoved":0},"msg":"attendance server listening"}
+{"level":30,"time":1795261024618,"pid":23176,"hostname":"DESKTOP-JK83CTJ","date":"21-11-2026","msg":"day files ensured"}
+{"level":30,"time":1795261024694,"pid":23176,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-21T11-37-04","msg":"backup created"}
+{"level":30,"time":1795264625633,"pid":23176,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-21T12-37-05","msg":"backup created"}
+{"level":30,"time":1795272514827,"pid":23176,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-21T14-48-33","msg":"backup created"}
+{"level":30,"time":1795276235743,"pid":23176,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-21T15-50-34","msg":"backup created"}
+{"level":30,"time":1795279835284,"pid":23176,"hostname":"DESKTOP-JK83CTJ","name":"hourly-2026-11-21T16-50-35","msg":"backup created"}
